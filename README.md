@@ -1,2 +1,2 @@
-# california-housing
-# House Price Prediction Using Linear Regression  ## Project Description  This project aims to predict house prices using Linear Regression, a supervised machine learning algorithm.
+ california-housing
+ In this activity, I developed a House Price Prediction model using Linear Regression. I selected the California Housing dataset and explored its features. I divided the dataset into training and testing sets and trained the Linear Regression model. I predicted house prices and evaluated the model using MAE, MSE, RMSE and R² score. The activity helped me understand supervised learning and regression.
